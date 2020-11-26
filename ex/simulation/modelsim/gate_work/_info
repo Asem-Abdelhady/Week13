@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dG:/CA labs/Week13/ex/simulation/modelsim
+valu_decoder
+Z1 !s110 1606400023
+!i10b 1
+!s100 E1oc?PUPz9_C48E<^LVTK3
+IXHF`_M1GA_NKC2;Z]Y]7]0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1606399277
+8G:/CA labs/Week13/ex/alu_decoder.v
+FG:/CA labs/Week13/ex/alu_decoder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1606400023.000000
+!s107 G:/CA labs/Week13/ex/alu_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/CA labs/Week13/ex|G:/CA labs/Week13/ex/alu_decoder.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work {+incdir+G:/CA labs/Week13/ex}
+Z7 tCvgOpt 0
+vcontrol_unit
+R1
+!i10b 1
+!s100 UD_=Z`HU?NWlDg:OX>OUO0
+IzLi_1MaRY<i<5VHG6UC8C0
+R2
+R0
+w1606399489
+8G:/CA labs/Week13/ex/control_unit.v
+FG:/CA labs/Week13/ex/control_unit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 G:/CA labs/Week13/ex/control_unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/CA labs/Week13/ex|G:/CA labs/Week13/ex/control_unit.v|
+!i113 1
+R5
+R6
+R7
+vhard_block
+R1
+!i10b 1
+!s100 3J0=7YP8_n9Cn=A@GNT:20
+I6:BN`OPFMFb1]=6CU@jRn1
+R2
+R0
+w1606400014
+8control_unit.vo
+Fcontrol_unit.vo
+L0 1095
+R3
+r1
+!s85 0
+31
+!s108 1606400022.000000
+!s107 control_unit.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|control_unit.vo|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+.
+R7
+vmain_decoder
+R1
+!i10b 1
+!s100 0Li2Sm4`hC@cBBI07Df1E1
+I537I69^@k=oId9oRn5jmk0
+R2
+R0
+w1606399280
+8G:/CA labs/Week13/ex/main_decoder.v
+FG:/CA labs/Week13/ex/main_decoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 G:/CA labs/Week13/ex/main_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/CA labs/Week13/ex|G:/CA labs/Week13/ex/main_decoder.v|
+!i113 1
+R5
+R6
+R7
+vtestbench
+R1
+!i10b 1
+!s100 8j^925n7Zd;RLhW=[8Ag<3
+I]:iNCNPEE3JFM@FC7U4Ck0
+R2
+R0
+w1606399626
+8G:/CA labs/Week13/ex/testbench.v
+FG:/CA labs/Week13/ex/testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 G:/CA labs/Week13/ex/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/CA labs/Week13/ex|G:/CA labs/Week13/ex/testbench.v|
+!i113 1
+R5
+R6
+R7

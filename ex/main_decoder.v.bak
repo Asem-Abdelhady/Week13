@@ -1,0 +1,7 @@
+module main_decoder(
+
+
+   input [5:0] opcode,
+	output MemtoReg, MemWrite, Branch, ALUSrc, RegDst, RegWrite,
+ 	output [2:0] ALUControl
+);
